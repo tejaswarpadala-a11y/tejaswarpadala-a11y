@@ -1,8 +1,11 @@
 # Hi, I'm Teja Padala 👋
 
-MBA candidate at UNC Kenan-Flagler and venture investor at Excelerate Health Ventures.
+MBA candidate at UNC Kenan-Flagler, venture investor at Excelerate Health Ventures, and builder of AI-powered product tools.
 
-I’m interested in building AI-powered products and tools that help teams make better product and technology decisions. Most of my projects explore how AI can be applied to product strategy, automation, and opportunity discovery.
+I work on projects at the intersection of:
+• AI systems
+• product strategy
+• decision frameworks
 
 
 ## What I'm working on
