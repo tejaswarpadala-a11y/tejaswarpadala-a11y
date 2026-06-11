@@ -1,88 +1,60 @@
-# Hi, I'm Teja Padala 👋
+# Teja Padala
 
-MBA candidate at UNC Kenan-Flagler, venture investor at Excelerate Health Ventures, and builder of AI-powered product tools.
+## AI product strategist and builder focused on agentic systems that ship.
 
-I work on projects at the intersection of:
-• AI systems
-• product strategy
-• decision frameworks
+I build AI products that turn messy enterprise, GTM, and operational signals into trusted workflows, scored decisions, and measurable actions. My work sits where product strategy meets applied LLM systems: defining the decision the product is making, grounding it in real data, and shipping the evaluation and tooling that make the output trustworthy.
 
+## What I build
 
-## What I'm working on
+- Agentic workflows that take raw, unstructured signals and produce scored, explainable decisions
+- Evaluation and scoring systems that make LLM output measurable and reviewable
+- Build-vs-buy and architecture tradeoff analysis across cost, latency, reliability, and operating complexity
+- Automation that removes manual steps from knowledge and operational workflows
 
-- AI product experimentation and LLM applications  
-- Build-vs-buy decision frameworks for AI systems  
-- Automation tools that simplify knowledge management  
-- AI-driven discovery tools for product opportunities  
+## Featured AI Products
 
+### WattWise
+An AI product that turns energy and operational signals into clear, actionable guidance for users. Built and shipped as a live product.
 
+- Live: [trywattwise.com](https://trywattwise.com)
+- Repo: [wattwise-ai](https://github.com/tejaswarpadala-a11y/wattwise-ai)
 
-## Projects
+### Investor / LP Intelligence Platform
+A platform that ingests fragmented investor and LP signals and converts them into structured intelligence for relationship and pipeline decisions. The full platform is private; a demo is available publicly.
 
-### AI Build-or-Buy Decision Framework
+- Demo repo: [lp-intelligence-demo](https://github.com/tejaswarpadala-a11y/lp-intelligence-demo)
 
-A framework for evaluating whether product teams should rely on GenAI APIs or invest in building custom fine-tuned models.
+### EVALCARD
+An LLM-as-judge evaluation tool for scoring model responses. EVALCARD scores output across five dimensions — factual accuracy, completeness, clarity, depth, and relevance — against a 50-point rubric, and exports results as JSON or Markdown for review and tracking.
 
-As organizations adopt AI, one of the most common product decisions is whether to integrate existing LLM APIs or develop internal models tailored to specific use cases. This project explores that decision through a structured comparison of cost, latency, and deployment complexity across different approaches.
+- Repo: [evalcard](https://github.com/tejaswarpadala-a11y/evalcard)
 
-The framework analyzes trade-offs between API-based models and fine-tuned systems to help product teams make more informed build-vs-buy decisions when designing AI features.
+### AI Build-or-Buy Framework
+A structured framework for deciding whether to integrate existing LLM APIs or build custom models for a given AI feature. It frames the decision as a tradeoff analysis across cost, latency, reliability, and operating complexity, so product teams can reason about architecture choices with clear criteria.
 
-This work is also being developed further with faculty at UNC Kenan-Flagler as part of a potential academic research paper exploring practical evaluation frameworks for AI product development.
+- Repo: [ai-buildorbuy-framework](https://github.com/tejaswarpadala-a11y/ai-buildorbuy-framework)
 
-Tech: Python, HuggingFace Transformers, PyTorch, RoBERTa-base (fine-tuned), 
-OpenAI GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Flash, scikit-learn, 
-pandas, NumPy, Google Colab
+## Other Projects
 
 ### AI Job Discovery Engine
+A tool that automates discovery and prioritization of relevant roles. It analyzes job descriptions, compares them against a candidate's background and goals, runs on a schedule to capture new postings, and ranks results by fit to cut manual search effort.
 
-A tool that automates the discovery and prioritization of relevant product management roles.
-
-The idea came from the challenge of tracking new job postings while balancing coursework, internships, and other responsibilities. New roles appear across multiple platforms every day, and manually checking them repeatedly is time-consuming.
-
-This project experiments with using AI to analyze job descriptions, compare them with a candidate’s background and career goals, and surface the most relevant opportunities. The system runs multiple times per day to capture newly posted roles, ranks them based on fit, and organizes them for review.
-
-The goal is to reduce the manual effort involved in job discovery while ensuring that high-quality opportunities are surfaced quickly.
-
-Tech: React, Node.js, OpenAI GPT-4 API, Google Places API, Vector Embeddings, 
-PostgreSQL, Vercel
-
+- Repo: [ai-job-discovery-engine](https://github.com/tejaswarpadala-a11y/ai-job-discovery-engine)
 
 ### LMS Knowledge Archiver
+An automation tool that exports course materials from a learning management system and organizes them into structured Google Drive folders, replacing hours of manual downloading and filing with a repeatable pipeline.
 
-An automation tool that exports course materials from a learning management system and organizes them into structured Google Drive folders.
+- Repo: [learning-management-system-drive-archiver](https://github.com/tejaswarpadala-a11y/learning-management-system-drive-archiver)
 
-The goal was to eliminate the manual process of downloading and organizing files after completing courses. For example, across ~37 courses this would normally require several hours of manually saving PDFs, slides, spreadsheets, assignments, and feedback documents.
+## Focus Areas
 
-This tool automates that workflow and creates a structured Google Drive archive of course materials. Keeping everything within the Google ecosystem also makes it easy to explore the content later using tools like NotebookLM to surface insights and revisit past coursework.
+- Agentic systems and applied LLM workflows
+- LLM evaluation and scoring
+- AI product strategy and architecture tradeoffs
+- Automation and operational tooling
 
-Tech: Python, Canvas LMS API, Beautiful Soup (web scraping), Selenium, 
-pandas, automated data pipeline
+## Links
 
-
-
-
-## Technical Skills & Product Capabilities
-
-### AI & Machine Learning
-Python, HuggingFace Transformers, PyTorch, Model Fine-tuning (RoBERTa, BERT), LLM APIs (GPT-4o, Claude, Gemini), Prompt Engineering, Vector Embeddings
-
-### Data Science & Analytics
-scikit-learn, pandas, NumPy, ML Evaluation (F1, MCC, ROC-AUC), Statistical Analysis, A/B Testing, Data Visualization (Plotly, matplotlib)
-
-### Product Management
-Build-vs-Buy Frameworks, Cost-Benefit Analysis, ROI Modeling, Product Experimentation, Strategic Tradeoffs, User Research
-
-### Software Engineering
-Git/GitHub, RESTful APIs, Cloud Platforms (AWS, GCP), Database Design (PostgreSQL, SQL), Agile/Scrum
-
-## Interests
-
-AI product management  
-Product strategy  
-AI systems evaluation  
-Automation and developer productivity
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/teja-padala  
-Email: tejaswar.padala@gmail.com
+- WattWise: [trywattwise.com](https://trywattwise.com)
+- LinkedIn: [teja-padala](https://www.linkedin.com/in/teja-padala)
+- GitHub: [tejaswarpadala-a11y](https://github.com/tejaswarpadala-a11y)
